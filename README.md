@@ -1,3 +1,1 @@
-# Simple Notepad
-
-This is my first simple notepad app in C# created for educational purposes
+#IDE Braintwo Forked from Notepad (https://github.com/Lavertis/Simple_Notepad)
